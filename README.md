@@ -1,5 +1,3 @@
-### Welcome to Sumana Saha's website 👋
-
 <!-- **sumanas27/sumanas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Introduction
