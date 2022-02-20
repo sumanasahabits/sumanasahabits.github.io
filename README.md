@@ -8,6 +8,20 @@ I am pursuing M.Tech in Software Engineering from Birla Institute of Technology 
 
 ## Career
 - 🔭 I’m currently working on Fintech Products [@Ratepay GmbH](https://www.ratepay.com/)
+
+Online Payment Solutions which is specialized in Invoice payments.https://www.ratepay.com/
+# Product & Application Development
+- Actively design, develop, test, deploy and maintain Microservices using Spring Boot, Java 8, Apache Kafka, REST, PostgreSQL, Mockito, Docker as downstream systems. 
+- Developed Contract Testing using Pact between two asynchronous microservices. 
+- Created Grafana Monitoring board using Prometheus DB for application and services.
+# Testing & Agile Methodologies
+- Developed Junit, Integration Test cases for recursive developments.
+- Used Agile methodologies and SCRUM and produced releases of software components usingGIT, JIRAandConfluence.
+- Systems Integration & Performance Optimization
+- Continuous Integration & Continuous Delivery using Jenkins and Nexus. 
+- Used BitBucket for Pair Programming and Code Reviews.
+- Performed Continuous Deployments in Docker Containers.
+
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Spring, JAVA topics, Microservices architechture
 - 🤔 I’m looking for help with Frontend technologies
