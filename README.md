@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/sumanasahabits/sumanasahabits.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<!-- **sumanas27/sumanas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Sumana Saha and a Software Engineer by profession. I am currently based in Berlin, Germany and originally from Kolkata, India.
 
-### Markdown
+- 🔭 I’m currently working on Fintech Products [@Ratepay GmbH](https://www.ratepay.com/)
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on Spring, JAVA topics, Microservices architechture
+- 🤔 I’m looking for help with Frontend technologies
+- 💬 Ask me about Programming, Fitness, Quantitative Nutrition, Travel
+- 📫 How to reach me: I'm [on Twitter (@SumanaS49674939)](https://twitter.com/SumanaS49674939) and [on Linkedin (@sumana-saha-30148664)](https://www.linkedin.com/in/sumana-saha-30148664/). That's the best way. There's also [e-mail](mailto:sumanas27@gmail.com), if you feel comfortable not using social media platforms :)
+- 😄 Pronouns: she/her/they
+- ⚡ Fun fact: I am a cat lover and a foodie!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumanasahabits/sumanasahabits.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
