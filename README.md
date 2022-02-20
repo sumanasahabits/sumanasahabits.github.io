@@ -32,6 +32,7 @@ Online Payment Solutions which is specialized in Invoice payments.https://www.ra
 - Java, Java EE & SOA Certification Training | Udemy| '19
 - TELC B1 - Deutsch-Test für Zuwanderer (DTZ) | '19
 
-### Contac
+### Contact details
+- 📫 How to reach me: I'm [on Twitter (@SumanaS49674939)](https://twitter.com/SumanaS49674939) and [on Linkedin (@sumana-saha-30148664)](https://www.linkedin.com/in/sumana-saha-30148664/). That's the best way. There's also [e-mail](mailto:sumanas27@gmail.com), if you feel comfortable not using social media platforms :)
 
 
