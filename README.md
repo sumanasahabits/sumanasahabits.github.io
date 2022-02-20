@@ -11,6 +11,7 @@ I am Sumana Saha and a Software Engineer by profession. I am currently based in 
 - 🔭 I’m currently working on Fintech Products [@Ratepay GmbH](https://www.ratepay.com/)
 
 Online Payment Solutions which is specialized in Invoice payments.https://www.ratepay.com/
+
 ### Product & Application Development
 - Actively design, develop, test, deploy and maintain Microservices using Spring Boot, Java 8, Apache Kafka, REST, PostgreSQL, Mockito, Docker as downstream systems. 
 - Developed Contract Testing using Pact between two asynchronous microservices. 
@@ -23,16 +24,16 @@ Online Payment Solutions which is specialized in Invoice payments.https://www.ra
 - Used BitBucket for Pair Programming and Code Reviews.
 - Performed Continuous Deployments in Docker Containers.
 
-### Previous work experiences
+## Previous work experiences
 - Java Backend Developer at protel Hotelsoftware GmbH, Dortmund, Germany
 - Java/J2EEDeveloper at PlusServer GmbH, Cologne, Germany
 - Software Engineer at Infosys Limited, Hyderabad, India
 
-### Certifications
+## Certifications
 - Java, Java EE & SOA Certification Training | Udemy| '19
 - TELC B1 - Deutsch-Test für Zuwanderer (DTZ) | '19
 
-### Contact details
+## Contact details
 - 📫 How to reach me: I'm [on Twitter (@SumanaS49674939)](https://twitter.com/SumanaS49674939) and [on Linkedin (@sumana-saha-30148664)](https://www.linkedin.com/in/sumana-saha-30148664/). That's the best way. There's also [e-mail](mailto:sumanas27@gmail.com), if you feel comfortable not using social media platforms :)
 
 
