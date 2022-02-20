@@ -1,10 +1,11 @@
 <!-- **sumanas27/sumanas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Introduction
-I am Sumana Saha and a Software Engineer by profession. I am currently based in Berlin, Germany and originally from Kolkata, India.
+I am Sumana Saha and a Software Engineer by profession. I am currently based in Berlin, Germany and originally from Kolkata, India.7.5 years experienced,meticulous & detail-oriented Java/J2EE Developer & deliver enterprise applications using JavaEE, Spring MVC, Spring Boot and Hibernate, REST and SOAP-based Java web services and Microservices,Event driven architecture with Kafka, Docker for containerization,GitHub, JIRA, Confluence, BitBucket and Jenkins for CI/CD process in Agile mode and Grafana with InfluxDB for monitoring application and services.
 
 ## Education
-I am pursuing M.Tech in Software Engineering from Birla Institute of Technology & Science of Pilani campus. Previously, I completed Bachelors degree from West Bengal University of Technology, Kolkata with 8.68 DGPA and distinction.
+- I am pursuing M.Tech in Software Engineering from Birla Institute of Technology & Science of Pilani campus.
+- Previously, I completed Bachelors degree from West Bengal University of Technology, Kolkata with 8.68 DGPA and distinction.
 
 ## Career
 - 🔭 I’m currently working on Fintech Products [@Ratepay GmbH](https://www.ratepay.com/)
@@ -22,12 +23,15 @@ Online Payment Solutions which is specialized in Invoice payments.https://www.ra
 - Used BitBucket for Pair Programming and Code Reviews.
 - Performed Continuous Deployments in Docker Containers.
 
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on Spring, JAVA topics, Microservices architechture
-- 🤔 I’m looking for help with Frontend technologies
-- 💬 Ask me about Programming, Fitness, Quantitative Nutrition, Travel
-- 📫 How to reach me: I'm [on Twitter (@SumanaS49674939)](https://twitter.com/SumanaS49674939) and [on Linkedin (@sumana-saha-30148664)](https://www.linkedin.com/in/sumana-saha-30148664/). That's the best way. There's also [e-mail](mailto:sumanas27@gmail.com), if you feel comfortable not using social media platforms :)
-- 😄 Pronouns: she/her/they
-- ⚡ Fun fact: I am a cat lover and a foodie!
+### Previous work experiences
+- Java Backend Developer at protel Hotelsoftware GmbH, Dortmund, Germany
+- Java/J2EEDeveloper at PlusServer GmbH, Cologne, Germany
+- Software Engineer at Infosys Limited, Hyderabad, India
+
+### Certifications
+- Java, Java EE & SOA Certification Training | Udemy| '19
+- TELC B1 - Deutsch-Test für Zuwanderer (DTZ) | '19
+
+### Contac
 
 
