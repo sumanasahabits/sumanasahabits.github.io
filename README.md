@@ -24,6 +24,11 @@ Online Payment Solutions which is specialized in Invoice payments.https://www.ra
 - Used BitBucket for Pair Programming and Code Reviews.
 - Performed Continuous Deployments in Docker Containers.
 
+### Systems Integration & Performance Optimization
+- Continuous Integration & Continuous Delivery using Jenkins and Nexus. 
+- Used BitBucket for Pair Programming and Code Reviews.
+- Continuous Deployments in Docker Containers.
+
 ## Previous work experiences
 - Java Backend Developer at protel Hotelsoftware GmbH, Dortmund, Germany
 - Java/J2EEDeveloper at PlusServer GmbH, Cologne, Germany
