@@ -12,11 +12,12 @@ I am Sumana Saha and a Software Engineer by profession. I am currently based in 
 
 Online Payment Solutions which is specialized in Invoice payments.https://www.ratepay.com/
 
-### Product & Application Development
+  ### Product & Application Development
 - Actively design, develop, test, deploy and maintain Microservices using Spring Boot, Java 8, Apache Kafka, REST, PostgreSQL, Mockito, Docker as downstream systems. 
 - Developed Contract Testing using Pact between two asynchronous microservices. 
 - Created Grafana Monitoring board using Prometheus DB for application and services.
-### Testing & Agile Methodologies
+
+  ### Testing & Agile Methodologies
 - Developed Junit, Integration Test cases for recursive developments.
 - Used Agile methodologies and SCRUM and produced releases of software components usingGIT, JIRAandConfluence.
 - Systems Integration & Performance Optimization
